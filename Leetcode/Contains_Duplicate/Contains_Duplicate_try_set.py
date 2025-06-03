@@ -8,3 +8,4 @@ class Solution:
         
 #setというのがあるらしい。
 # 重複と順序がない数のコレクションだそう。
+# runtime 17 ms memory 31.73 MB

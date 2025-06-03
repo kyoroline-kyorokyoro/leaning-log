@@ -9,3 +9,4 @@ class Solution:
         
  #solutionの中にあったハッシュマップというやり方だけど、
  # あんまり気に入らないかな。早くもないし。
+ # runtime 22 ms memory 34.96 MB

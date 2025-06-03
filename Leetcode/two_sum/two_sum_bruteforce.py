@@ -5,3 +5,4 @@ class Solution:
                 if target==(nums[i]+nums[j]):
                     return [i,j]
 #ブルートフォース。非効率。O(n^2)の速度
+# runtime 1781 ms memory 18.24 MB

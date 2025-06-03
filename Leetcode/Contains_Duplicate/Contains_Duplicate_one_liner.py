@@ -6,3 +6,4 @@ class Solution:
 # set()が重複を消してくれるおかげで、
 # 要素数が減るから、元のnumsとlen()を一発比較するだけでよい。
 # 早いし読みやすい。
+# runtime 4 ms memory 31.56 MB

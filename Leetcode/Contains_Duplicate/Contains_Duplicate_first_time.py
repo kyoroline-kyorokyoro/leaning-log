@@ -8,3 +8,4 @@ class Solution:
     
 #最初にやったやり方。Two sumと同じハッシュテーブルの考えを
 # 使ったけど、tableは別に辞書にしなくてよかったな。
+# runtime 22 ms memory 38.15 MB
