@@ -9,4 +9,5 @@ class Solution:
 # １．stringsの長さの比較
 # ２．文字の出現回数を比較
 # １で終わっちゃうケースが多かったのかな？
+# set(s)がミソ。同じ文字を重複して試さないようにしてる。
 # runtime 0 ms memory 17.68 MB
